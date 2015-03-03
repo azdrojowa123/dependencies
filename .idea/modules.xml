@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a.iml" filepath="$PROJECT_DIR$/.idea/modules/a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a-build.iml" filepath="$PROJECT_DIR$/.idea/modules/a-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/b.iml" filepath="$PROJECT_DIR$/.idea/modules/b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/b-build.iml" filepath="$PROJECT_DIR$/.idea/modules/b-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependencies.iml" filepath="$PROJECT_DIR$/.idea/modules/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dependencies-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dependencies-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>

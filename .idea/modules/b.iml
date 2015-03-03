@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="b" external.linked.project.path="$MODULE_DIR$/../../b" external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../b/target/classes" />
+    <output-test url="file://$MODULE_DIR$/../../b/target/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../b">
+      <sourceFolder url="file://$MODULE_DIR$/../../b/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/target/src_managed/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/target/src_managed/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/target/resource_managed/main" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../b/target/resource_managed/test" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../b/target/resolution-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../b/target/streams" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="a" exported="" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-library:2.11.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: jline:jline:2.11:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-compiler:2.10.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-lang:scala-reflect:2.10.4:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:classpath:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:collections:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:command:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:completion:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:control:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:cross:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:interface:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:io:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:launcher-interface:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:logging:0.13.7:jar" level="project" />
+    <orderEntry type="library" name="SBT: org.scala-sbt:process:0.13.7:jar" level="project" />
+  </component>
+</module>
