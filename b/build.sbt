@@ -1,6 +1,6 @@
 name := "b"
 
-libraryDependencies += "org.scala-sbt" % "command" % "0.13.7"
+libraryDependencies += "org.scala-sbt" %% "command" % "1.10.2"
 
 lazy val myRunTask = taskKey[Unit]("A custom run task.")
 
